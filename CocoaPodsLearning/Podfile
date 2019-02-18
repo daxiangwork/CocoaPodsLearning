@@ -1,4 +1,5 @@
 platform :ios,'8.0'
 target 'CocoaPodsLearning' do
-pod 'AFNetworking','3.2.0'
+pod 'AFNetworking','~> 3.2.0'
+pod 'YYKit', '~> 1.0.9'
 end
